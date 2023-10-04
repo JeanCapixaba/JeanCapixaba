@@ -18,6 +18,7 @@
             <img align="Center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
               <img align="Center" alt="Firebase" src="https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white" />
                 <img align="Center" alt="Sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+                  <img align="Center" alt="JetpackCompose" src="https://img.shields.io/badge/Jetpackcompose-4285F4?style=for-the-badge&logo=#4285F4" />
   <div><br/>
     
- Atualmente eu estudo essas tecnologias, buscando sempre agregar meus conhecimentos, buscando uma vaga de júnior ou estágio para entrar de vez nesse mundo maravilhoso que é a programação!
+ Meu foco é desenvolvimento mobile nativo, atualmente estou desenvolvendo em Kotlin com JetpackCompose, buscando sempre agregar meus conhecimentos, tentando encontrar uma vaga de júnior ou estágio para entrar de vez nesse mundo maravilhoso que é a programação!
