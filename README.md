@@ -39,7 +39,6 @@ Client projects sit in private repos, so these summaries are deliberately generi
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**whatsapp-rust**](https://github.com/JeanCapixaba/whatsapp-rust) | Open source WhatsApp client library written in pure Rust, based on whatsmeow and baileys | `Rust` |
 | **WhatsApp AI agent** | Handles customer conversations for a local business. Live in production. | `Python` `LLM` |
 | **Agent platform** | Multi-tenant WhatsApp agent service, in active development | `FastAPI` `LLM` |
 | **Engagement dashboard** | Gamified pedagogical tracking for an education company | `TypeScript` `Python` `Docker` |
