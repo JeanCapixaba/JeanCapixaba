@@ -9,13 +9,16 @@
 
 #### Corry
 
-**Founder and sole developer.** A delivery marketplace that matches local businesses with
-motorcycle couriers. A shop posts a run, nearby riders get an exclusive offer that takes over
-the screen and cascades to the next rider the moment one declines, and both sides follow it
-live. I built the client, the backend, the dispatch logic and the admin panel.
+**Founder and sole developer.** A delivery app that matched local shops with motorcycle
+couriers. A shop posted a run, the nearest rider got an exclusive offer that took over the
+screen and cascaded to the next rider the moment one declined, and both sides followed it
+live. I built the Android and web clients, the backend, the dispatch logic and the admin panel.
 
-[![corry.web.app](https://img.shields.io/badge/corry.web.app-0B6F5F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://corry.web.app)
-![Android closed beta](https://img.shields.io/badge/Android_closed_beta-3DDC84?style=for-the-badge&logo=googleplay&logoColor=black)
+It ran in production on Google Play from August to October 2026 and was shut down when a
+competitor took over the local market. The code is private; I'm happy to walk through it on a call.
+
+[![corryapp.com.br](https://img.shields.io/badge/corryapp.com.br-0B6F5F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://corryapp.com.br)
+![Shut down Oct 2026](https://img.shields.io/badge/Shut_down_Oct_2026-3F4750?style=for-the-badge)
 
 `Kotlin Multiplatform` `Compose Multiplatform` `Firebase` `Cloud Functions` `Firestore`
 
