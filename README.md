@@ -14,8 +14,8 @@ couriers. A shop posted a run, the nearest rider got an exclusive offer that too
 screen and cascaded to the next rider the moment one declined, and both sides followed it
 live. I built the Android and web clients, the backend, the dispatch logic and the admin panel.
 
-It ran in production on Google Play from August to October 2026 and was shut down when a
-competitor took over the local market. The code is private; I'm happy to walk through it on a call.
+Built over six months, two of them live on Google Play. The code is private; I'm happy to
+walk through it on a call.
 
 [![corryapp.com.br](https://img.shields.io/badge/corryapp.com.br-0B6F5F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://corryapp.com.br)
 ![Shut down Oct 2026](https://img.shields.io/badge/Shut_down_Oct_2026-3F4750?style=for-the-badge)
